@@ -1,10 +1,10 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
-group: alum
+name: Kevin Li
+image: images/photos/photo.jpg
+role: graduate
 links:
-  github: john-doe
+  email: yifei.chen@mail.mcgill.ca
+  github: ByronChen12138
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
