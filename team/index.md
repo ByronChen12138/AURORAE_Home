@@ -22,6 +22,10 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include list.html data="members" component="portrait" filter="role != 'pi' and role != 'alumni'" %}
 
+## Mascot
+
+{% include list.html data="members" component="portrait" filter="role == 'mascot'" %}
+
 {% include section.html background="images/background.jpg" dark=true %}
 
 We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives. We want to push the frontier of photonic quantum information and train a new generation of researchers and engineers.
@@ -30,7 +34,7 @@ We work with a wide range of outstanding groups from around the world, and we're
 
 ## Alumni
 
-{% include list.html data="members" component="portrait" filters="role: alumni" %}
+{% include list.html data="members" component="portrait" filters="role == 'alumni'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
