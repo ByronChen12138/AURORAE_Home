@@ -20,7 +20,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## Students
 
-{% include list.html data="members" component="portrait" filter="role != 'pi' and role != 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi' and role != 'alumni' and role != 'mascot'" %}
 
 ## Mascot
 
