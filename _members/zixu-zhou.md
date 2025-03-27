@@ -1,8 +1,8 @@
 ---
 name: Zixu Zhou
 image: images/photos/photo.jpg
-role: graduate
-group: alum
+role: alumni
+description: Former Master
 links:
   email: yifei.chen@mail.mcgill.ca
   github: ByronChen12138

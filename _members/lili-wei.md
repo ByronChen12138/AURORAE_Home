@@ -1,7 +1,7 @@
 ---
 name: Lili Wei
 image: images/photos/lili-wei.jpg
-role: principal-investigator
+role: pi
 affiliation: McGill University
 aliases:
   - L. Wei
