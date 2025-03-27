@@ -1,7 +1,7 @@
 ---
 name: Junfeng Chen
 image: images/photos/photo.jpg
-role: alumni
+role: al
 description: Former Exchanged Undergraduate Student
 links:
   email: yifei.chen@mail.mcgill.ca

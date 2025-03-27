@@ -1,7 +1,7 @@
 ---
 name: Kevin Li
 image: images/photos/photo.jpg
-role: alumni
+role: al
 description: Former Master
 links:
   email: yifei.chen@mail.mcgill.ca
