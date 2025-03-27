@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: ByronChen12138
-subtitle: 
+title: AURORAE Lab
+subtitle: Automated Program Analysis and Testing Lab
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@ByronChen12138.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: ByronChen12138
-  twitter: ByronChen12138
-  youtube: ByronChen12138
+  email: lili.wei@mcgill.ca
+  orcid: 0000-0002-2428-4111
+  google-scholar: TctbYXkAAAAJ
+  github: LiliWeiSE
+#  twitter: LiliWeiSE
+#  youtube: LiliWeiSE
 
 ### jekyll settings
 

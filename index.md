@@ -1,7 +1,7 @@
 ---
 ---
 
-# ByronChen12138's Website
+# Where the magic happens...
 
 An engaging 1-3 sentence description of your lab.
 
