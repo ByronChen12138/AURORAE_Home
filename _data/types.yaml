@@ -19,7 +19,7 @@ master:
   description: Master Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-book
   description: Undergraduate Student
 
 programmer:
@@ -29,6 +29,10 @@ programmer:
 mascot:
   icon: fa-solid fa-cat
   description: Mascot
+
+alumni:
+  icon: fa-solid fa-user-graduate
+  description: Alumni
 
 # general
 

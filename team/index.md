@@ -32,6 +32,8 @@ We work with a wide range of outstanding groups from around the world, and we're
 
 {% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
 
+{% include section.html %}
+
 ## Alumni
 
 {% include list.html data="members" component="portrait" filters="role == 'alumni'" %}
