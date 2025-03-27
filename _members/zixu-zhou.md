@@ -2,6 +2,7 @@
 name: Zixu Zhou
 image: images/photos/photo.jpg
 role: graduate
+group: alum
 links:
   email: yifei.chen@mail.mcgill.ca
   github: ByronChen12138
