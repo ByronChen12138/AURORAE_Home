@@ -2,6 +2,7 @@
 title: Example post 3
 image: images/photo.jpg
 author: john-doe
+group: highlighted
 tags: biology, medicine
 ---
 
