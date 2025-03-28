@@ -1,5 +1,5 @@
 ---
-name: 996
+name: "996"
 image: images/photos/nine-nine-six.jpeg
 role: mascot
 description: The lab mascot
