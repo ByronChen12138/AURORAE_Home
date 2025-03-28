@@ -1,23 +1,38 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+- id: arXiv:2502.04200
+  title: "Characterizing Bugs in Login Processes of Android Applications: An Empirical Study"
+  type: preprint
+  description: "This paper is accepted by ICPC'25"
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - login
+    - empirical study
+    - android
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: arXiv:2501.07805
+  title: "How Far are App Secrets from Being Stolen? A Case Study on Android"
+  type: preprint
+  description: "This paper is accepted by EMSE'25"
+  tags:
+    - android
+
+
+
+- id: 10.1109/TSE.2025.3553383
+  title: "Do Experts Agree About Smelly Infrastructure?"
+  type: preprint
+  tags:
+    - anti-pattern
+
+
+- id: arXiv:2408.01810
+  title: "Demystifying Device-specific Compatibility Issues in Android Apps"
+  type: paper
+  description: "This paper is accepted by ICSME'24"
+  buttons:
+    - type: source
+      text: Project
+      link: https://zenodo.org/records/10964164
+  tags:
+    - android
+    - device-specific
+    - compatibility issue
