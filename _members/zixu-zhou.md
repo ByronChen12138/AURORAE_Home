@@ -1,6 +1,6 @@
 ---
 name: Zixu Zhou
-image: images/photos/photo.jpg
+image: images/photos/zixu-zhou.jpg
 role: alumni
 description: Former Master
 links:

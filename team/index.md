@@ -46,9 +46,9 @@ Our team thrives on collaboration across disciplines and institutions, bringing 
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photos/group-photo-1.jpg" %}
+{% include figure.html image="images/photos/group-photo-2.jpg" %}
+{% include figure.html image="images/photos/group-photo-3.jpg" %}
 
 {% endcapture %}
 

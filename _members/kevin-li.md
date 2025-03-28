@@ -1,6 +1,6 @@
 ---
 name: Kevin Li
-image: images/photos/photo.jpg
+image: images/photos/kevin-li.jpg
 role: alumni
 description: Former Master
 links:
