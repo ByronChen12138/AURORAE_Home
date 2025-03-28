@@ -9,6 +9,7 @@ aliases:
 links:
   email: lili.wei@mcgill.ca
   home-page: https://liliweise.github.io/
+  google-scholar: https://scholar.google.com/citations?user=8Z6Z9Y4AAAAJ
   orcid: 0000-0002-2428-4111
 ---
 

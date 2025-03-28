@@ -7,9 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team is a group of passionate researchers and students who are dedicated to advancing the state of the art in software engineering. We are committed to conducting high-quality research that has a positive impact on the software development process.
+Please explore our team members below to learn more about our research interests and backgrounds.
 
 {% include section.html %}
 
@@ -28,9 +27,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives. We want to push the frontier of photonic quantum information and train a new generation of researchers and engineers.
+We are now actively looking for self-motivated PhD students who are interested in software engineering research, especially in program analysis, test generation, and mobile computing. We value student supervision as an important mission and will work closely with you if you become our student. Please send us your CV and a copy of your transcript to us via email if you are interested.
 
-{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
+{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="contact" style="button" %}
 
 {% include section.html %}
 
@@ -40,7 +39,7 @@ We work with a wide range of outstanding groups from around the world, and we're
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Our team thrives on collaboration across disciplines and institutions, bringing together innovative ideas and diverse perspectives to tackle the challenges of photonic quantum systems. Whether you’re interested in joining us or learning more about our research, we encourage you to explore the exciting work we’re doing.
+Our team thrives on collaboration across disciplines and institutions, bringing together innovative ideas and diverse perspectives to tackle the challenges during software analysis and testing. Whether you’re interested in joining us or learning more about our research, we encourage you to explore the exciting work we’re doing.
 
 {% include section.html %}
 
