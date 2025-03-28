@@ -1,7 +1,7 @@
 ---
 title: Research
 nav:
-  order: 1
+  order: 2
   tooltip: Published works
 ---
 
@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="How Far are App Secrets from Being Stolen? A Case Study on Android" style="rich" %}
 
 {% include section.html %}
 
