@@ -1,6 +1,6 @@
 ---
 name: Sogol Masoumzadeh
-image: images/photos/photo.jpg
+image: images/photos/sogol-masoumzadeh.jpg
 role: phd
 links:
   email:
