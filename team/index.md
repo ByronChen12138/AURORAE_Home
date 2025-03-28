@@ -29,7 +29,7 @@ Please explore our team members below to learn more about our research interests
 
 We are now actively looking for self-motivated PhD students who are interested in software engineering research, especially in program analysis, test generation, and mobile computing. We value student supervision as an important mission and will work closely with you if you become our student. Please send us your CV and a copy of your transcript to us via email if you are interested.
 
-{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="contact" style="button" %}
+{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="jobs" style="button" %}
 
 {% include section.html %}
 
